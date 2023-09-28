@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rahul Jadhav</h1>
-<h3 align="center">A passionate Data Scientist</h3>
+<h3 align="center">A passionate Data Scientist</h3> 
+
+<img align= "right" alt ="coding" width="400" src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2019/02/Digital-Marketing-Write-For-Us.gif">
+
 
 - 🌱 I’m currently learning **PGP in Data Science and Machine Learning.**
 
