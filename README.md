@@ -1,4 +1,4 @@
-![logo]([https://github.com/RahulJadhav2104/RahulJadhav2104/blob/main/1.png](https://github.com/RahulJadhav2104/RahulJadhav2104/blob/main/1.png))
+![logo](https://github.com/RahulJadhav2104/RahulJadhav2104/blob/main/3.png)
 <h1 align="center">Hi 👋, I'm Rahul Jadhav</h1>
 <h3 align="center">A passionate Data Scientist</h3> 
 
